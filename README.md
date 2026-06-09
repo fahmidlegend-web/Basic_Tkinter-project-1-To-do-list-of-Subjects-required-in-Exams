@@ -28,7 +28,7 @@ For example ::
 
 ### Delete Tasks::
 
-![add_img](https://github.com/user-attachments/assets/884d827a-6093-4f61-99a0-d872da51b774")
+![add_img](https://github.com/user-attachments/assets/884d827a-6093-4f61-99a0-d872da51b774)
 
 
 
