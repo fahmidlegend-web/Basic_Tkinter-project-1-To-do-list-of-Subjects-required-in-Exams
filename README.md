@@ -14,14 +14,15 @@ This add_option helps to create new tasks. Just enter the SUBJECT name you want 
 
 For example ::
 
-###Before ::
+### Before ::
 
 ![before_show](https://github.com/user-attachments/assets/c42f1f09-caa9-43dc-9fcb-afd846bfe7ec)
 
 ### After ::
 
 ![add_click](https://github.com/user-attachments/assets/02903996-b165-4dd1-906a-cfc4e30589a6)
- ![after_show]([https://github.com/user-attachments/assets/c2df5db2-6134-4411-9d4e-91b9a03e3e51](https://github.com/user-attachments/assets/17aa1bc6-b896-4d5c-9bdb-f07e0c40ac06))
+
+![after_show](https://github.com/user-attachments/assets/17aa1bc6-b896-4d5c-9bdb-f07e0c40ac06)
 
 
 
