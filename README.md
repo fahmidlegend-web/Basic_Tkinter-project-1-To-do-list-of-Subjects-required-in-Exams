@@ -8,3 +8,20 @@ This app can help you update your tasks, you can also mark it as done or not .Yo
 
 ![add_img](https://github.com/user-attachments/assets/a911082c-f376-4eff-8932-4e36348a931a)
 
+
+
+This add_option helps to create new tasks. Just enter the SUBJECT name you want to add and you will find new tasks with all the parameters you want. 
+
+For example ::
+
+###Before ::
+
+![before_show](https://github.com/user-attachments/assets/c42f1f09-caa9-43dc-9fcb-afd846bfe7ec)
+
+### After ::
+
+![add_click](https://github.com/user-attachments/assets/02903996-b165-4dd1-906a-cfc4e30589a6)
+ ![after_show](https://github.com/user-attachments/assets/c2df5db2-6134-4411-9d4e-91b9a03e3e51)
+
+
+
