@@ -56,13 +56,16 @@ For example ::
 
 ### Before ::
 
-![before_physics](https://github.com/user-attachments/assets/9316a9a6-feba-4841-8360-5823ad8efdab)
+![before_physics](https://github.com/user-attachments/assets/5caca6b1-f662-43b3-bfc9-26eca24a0d38)
 
 
 ### After ::
 
 
+![after_chemistry](https://github.com/user-attachments/assets/9316a9a6-feba-4841-8360-5823ad8efdab)
 
+
+Here,physics is replaced by chemistry
 
 
 
