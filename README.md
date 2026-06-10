@@ -87,12 +87,12 @@ so, i will be adding a grade key here.
 
 ### After ::
 
-![after_adding_key](https://github.com/user-attachments/assets/89be4e51-425b-4d99-9465-0a3b56909590)
+![after_adding_key](https://github.com/user-attachments/assets/97e851b5-1fa8-4a5d-8f50-58289e4e2098)
 
 ![show_grades options](https://github.com/user-attachments/assets/a525247c-2499-443e-adff-afdc300608a8)
 
 
-Here, a paramter called grades is shown 
+Here, a paramter called grades is shown after adding a key or parameter called grades
 
 
 
