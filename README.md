@@ -104,11 +104,13 @@ You can remove any given parameter by using this key
 
 ### Before ::
 
-![after_remove_key](https://github.com/user-attachments/assets/55214239-98da-49b7-bfd6-eea12ea134eb)
+![before_remove_key](https://github.com/user-attachments/assets/55214239-98da-49b7-bfd6-eea12ea134eb)
+
+For example,You want to remove the parameter subject then you can use this option
 
 ### After ::
 
-![Before_ remove_key](https://github.com/user-attachments/assets/299e1bd4-5b86-4634-8680-3bae84adb7cc)
+![after_ remove_key](https://github.com/user-attachments/assets/299e1bd4-5b86-4634-8680-3bae84adb7cc)
 
-
+![removed_key](https://github.com/user-attachments/assets/a39d4790-b147-4334-bff6-662378cafc5d)
 
