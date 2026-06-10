@@ -256,6 +256,8 @@ remove_button.grid(column = 1 ,row = 5)
 search_button = ttk.Button(frm,text = "Search key" , command = search_data)
 search_button.grid(column = 1 ,row = 6)
 
+# Show button in the main.py gui will open another window in which you can view your data it is stored in show.py module
+
 show_button = ttk.Button(frm,text = "Show Button",command = show.show_data )
 show_button.grid(column = 1 ,row = 7)
 
