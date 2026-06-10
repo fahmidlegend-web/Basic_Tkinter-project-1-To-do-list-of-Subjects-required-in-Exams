@@ -48,6 +48,23 @@ For example ::
 ![before_show](https://github.com/user-attachments/assets/c42f1f09-caa9-43dc-9fcb-afd846bfe7ec)
 
 
+### Update Tasks:
+
+![update_task](https://github.com/user-attachments/assets/e566cb6b-e423-4112-8462-d15cac740d5a)
+
+### To update tasks You have to use this format ([index number(starts from 0] [key_name] [What do you want to update the key with] ) . For example type (2 subject Chemistry) it means update the  subject of index 2 as chemistry 
+
+### Before ::
+
+![before_physics](https://github.com/user-attachments/assets/9316a9a6-feba-4841-8360-5823ad8efdab)
+
+
+### After ::
+
+
+
+
+
 
 
 
