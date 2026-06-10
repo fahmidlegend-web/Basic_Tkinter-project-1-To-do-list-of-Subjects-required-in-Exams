@@ -11,6 +11,21 @@ Contains all the options such as add,delete,update,search,add keys etc
 ![Basic_UI](https://github.com/user-attachments/assets/eef3427c-863c-4723-9b7e-340a2c7bbcf8)
 
 
+### View Your Subject details ::
+
+To view your subject details or to show your data you have to click show button
+
+
+![Show_button](https://github.com/user-attachments/assets/7daa39f0-421f-4e68-85e2-4b9db2e1da52)
+
+After clicking it you will be redirected to this window 
+
+![Show_UI](https://github.com/user-attachments/assets/ecdbe659-556c-47d5-92e2-37ab75a3b0a0)
+
+
+And here you can view all your details including parameters like percentage,grades.
+
+
 ### Add tasks::
 
 ![add_img](https://github.com/user-attachments/assets/a911082c-f376-4eff-8932-4e36348a931a)
@@ -133,5 +148,7 @@ This option helps you to search existing data by subject paramater. You can know
 
 
 For example, If you search Maths(a subject) in seacrh option then you can get the search results of Maths with all the meta info(like subject code,grades,percentage)
+
+
 
 
