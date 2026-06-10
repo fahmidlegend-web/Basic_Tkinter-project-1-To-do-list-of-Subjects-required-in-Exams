@@ -67,7 +67,32 @@ For example ::
 
 Here,physics is replaced by chemistry
 
+### Add key ::
 
+You can add many parameters as you like(for example , you may add keys like subject code,mpercentage,topics selected any keys you like)
+
+![add_key](https://github.com/user-attachments/assets/f478a5f7-ba16-46f0-aefc-d3dc30a52550)
+
+### Before ::
+
+![before_adding_key](https://github.com/user-attachments/assets/89be4e51-425b-4d99-9465-0a3b56909590)
+
+
+
+
+Here,there are parameters like subject code, percentage but there is no parameters called grades
+so, i will be adding a grade key here.
+
+
+
+### After ::
+
+![after_adding_key](https://github.com/user-attachments/assets/89be4e51-425b-4d99-9465-0a3b56909590)
+
+![show_grades options](https://github.com/user-attachments/assets/a525247c-2499-443e-adff-afdc300608a8)
+
+
+Here, a paramter called grades is shown 
 
 
 
