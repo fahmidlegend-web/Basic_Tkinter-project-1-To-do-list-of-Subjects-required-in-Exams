@@ -4,6 +4,13 @@ This app can help you update your tasks, you can also mark it as done or not .Yo
 
 ### NB : This is a beginner friendly code . As I am still learning and trying to figure out. So please check it out and update me what I should Improve
 
+### Basic UI ::
+
+Contains all the options such as add,delete,update,search,add keys etc
+
+![Basic_UI](https://github.com/user-attachments/assets/eef3427c-863c-4723-9b7e-340a2c7bbcf8)
+
+
 ### Add tasks::
 
 ![add_img](https://github.com/user-attachments/assets/a911082c-f376-4eff-8932-4e36348a931a)
