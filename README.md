@@ -147,8 +147,18 @@ This option helps you to search existing data by subject paramater. You can know
 ![search_Maths](https://github.com/user-attachments/assets/64c9336a-7a48-4b9f-badd-17f462e7a3b1)
 
 
-For example, If you search Maths(a subject) in seacrh option then you can get the search results of Maths with all the meta info(like subject code,grades,percentage)
+For example, If you search Maths(a subject) in search option then you can get the search results of Maths with all the meta info(like subject code,grades,percentage)
 
+
+You can clear the labels by clicking clear button
+
+![clear everything](https://github.com/user-attachments/assets/5a1604d8-9f87-468a-8abb-84477b3b89a1)
+
+
+![Cleared Everything](https://github.com/user-attachments/assets/2b1bde6b-48aa-4fc0-8043-f298bf90d162)
+
+
+Everything is gone after clicking clear button
 
 
 
