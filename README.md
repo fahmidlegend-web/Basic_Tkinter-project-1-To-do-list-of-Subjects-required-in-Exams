@@ -95,4 +95,20 @@ so, i will be adding a grade key here.
 Here, a paramter called grades is shown after adding a key or parameter called grades
 
 
+### Remove_Key ::
+
+![Remove_key_button](https://github.com/user-attachments/assets/74c4bffe-0a20-4017-ba27-ffb63210344f)
+
+
+You can remove any given parameter by using this key 
+
+### Before ::
+
+![after_remove_key](https://github.com/user-attachments/assets/55214239-98da-49b7-bfd6-eea12ea134eb)
+
+### After ::
+
+![Before_ remove_key](https://github.com/user-attachments/assets/299e1bd4-5b86-4634-8680-3bae84adb7cc)
+
+
 
