@@ -20,7 +20,7 @@ To view your subject details or to show your data you have to click show button
 
 After clicking it you will be redirected to this window 
 
-![Show_UI](https://github.com/user-attachments/assets/ecdbe659-556c-47d5-92e2-37ab75a3b0a0)
+![Show_UI](https://github.com/user-attachments/assets/fb58c5da-e1df-49b5-9860-6f9c564fd40a)
 
 
 And here you can view all your details including parameters like percentage,grades.
