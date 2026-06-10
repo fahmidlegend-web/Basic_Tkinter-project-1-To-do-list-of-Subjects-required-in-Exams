@@ -114,3 +114,17 @@ For example,You want to remove the parameter subject then you can use this optio
 
 ![removed_key](https://github.com/user-attachments/assets/a39d4790-b147-4334-bff6-662378cafc5d)
 
+
+### Search Data ::
+
+
+![search_key](https://github.com/user-attachments/assets/53a3260a-3b77-430d-b410-fd4846e07f1c)
+
+This option helps you to search existing data by subject paramater. You can know about the details of a particular subject with all its meta information
+
+![search_Maths](https://github.com/user-attachments/assets/64c9336a-7a48-4b9f-badd-17f462e7a3b1)
+
+
+For example, If you search Maths(a subject) in seacrh option then you can get the search results of Maths with all the meta info(like subject code,grades,percentage)
+
+
